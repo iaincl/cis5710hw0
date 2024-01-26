@@ -18,5 +18,6 @@ _start:
         
 end_program:
         # jump here when you're done
+        # hi
         j end_program
 
